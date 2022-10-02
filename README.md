@@ -1,2 +1,2 @@
-# Deep_Learning_And_Natural_Language_Processing_2022H2
-Deep_Learning_And_Natural_Language_Processing For Session 2022 H2
+# Deep_Learning And Natural_Language_Processing_2022H2
+Deep_Learning_And_Natural_Language_Processing Course Material From BITS WILP For Session 2022 H2
